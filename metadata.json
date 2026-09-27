@@ -1,0 +1,6 @@
+{
+  "name": "PureHarvest Organics",
+  "description": "Organic food market app with farm-fresh catalog, verified customer reviews & ratings, and seamless eco-checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
